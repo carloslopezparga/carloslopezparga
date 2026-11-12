@@ -57,6 +57,6 @@ Fourth-year Industrial Technologies Engineering student at ETSII-UPM (Madrid), s
 
 ## Contact
 
-<a href="https://www.linkedin.com/in/carloslopezparga"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/carloslopezparga"><img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge" alt="LinkedIn" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:3B82F6&height=110&section=footer" width="100%" alt="" />
