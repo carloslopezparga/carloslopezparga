@@ -17,17 +17,21 @@ Fourth-year Industrial Technologies Engineering student at ETSII-UPM (Madrid), s
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td valign="top">
       <h3><a href="https://github.com/carloslopezparga/job-hunt-copilot">job-hunt-copilot</a></h3>
       <p>Pulls internships from the public Greenhouse, Lever and Ashby job boards, scores each one against my profile and drafts a tailored CV, cover letter and LinkedIn note. Runs from a Telegram bot and never applies on its own.</p>
       <p><code>Python</code> <code>SQLite</code> <code>Jinja2</code> <code>pytest</code></p>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td valign="top">
       <h3><a href="https://github.com/carloslopezparga/handover-demo">handover-demo</a></h3>
       <p>Working prototype of a single property record for a proptech supply team. Required fields per stage block incomplete records, and signing generates the handover to renovations automatically.</p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code></p>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td valign="top">
       <h3><a href="https://github.com/carloslopezparga/portfolio">portfolio</a></h3>
       <p>Work in progress, not launched yet. Bilingual personal site with an interactive three.js point cloud and an AI agent that answers questions about my work.</p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>three.js</code> <code>Claude API</code></p>
