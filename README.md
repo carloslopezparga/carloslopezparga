@@ -6,7 +6,7 @@
 
 ## About
 
-Fourth-year Industrial Technologies Engineering student at ETSII-UPM (Madrid), specializing in Intelligent Systems & Structures. I turn slow, manual processes into tools that run on their own, mostly with Python, TypeScript and LLMs.
+Fourth-year Industrial Technologies Engineering student at ETSII-UPM (Madrid). I turn slow, manual processes into tools that run on their own, mostly with Python, TypeScript and LLMs.
 
 - **Now:** Tech Operations Intern at PropHero, working between Ops and Tech to automate workflows with scripting, low-code and AI.
 - **Building:** job-hunt-copilot, a Python CLI and Telegram bot that finds internships and drafts tailored applications, plus n8n automations powered by LLMs.
